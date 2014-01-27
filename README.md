@@ -11,7 +11,7 @@ Install [vagrant](http://docs.vagrantup.com/v2/installation/index.html)
 Add and configurate box
 
 ```
-vagrant box add lucid32 . http://files.vagrantup.com/lucid32.box
+vagrant box add lucid32 http://files.vagrantup.com/lucid32.box
 vagrant init lucid32
 vagrant up
 ```
