@@ -7,6 +7,11 @@ Vagrant Box Ubuntu lucid 32 with LAMP configuration
 ##First step: 
 Install [vagrant](http://docs.vagrantup.com/v2/installation/index.html) 
 
+```
+clone git@github.com:mr29a/vagrant-lamp-lucid-32.git
+cd vagrant-lamp-lucid32 
+```
+
 ##Second step: 
 Add and configurate box
 
@@ -23,9 +28,7 @@ vagrant reload
 ```
 #You can load in your browser:
 
-```
-http://127.0.0.1:4567
-```
+[http://127.0.0.1:4567](http://127.0.0.1:4567)
 
 
 
